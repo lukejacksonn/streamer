@@ -13,6 +13,8 @@ You can subscribe to a stream using [Pusher](https://pusher.com) in the browser 
 </script>
 ```
 
+> Or you can [try it online](https://codepen.io/lukejacksonn/pen/VBdeOa?editors=1000) on CodePen
+
 Replace `SOME-CHANNEL-NAME` with one of the channels listed below and then open the console to see the data flowing in. Replace the `console.log` with a function that accepts a single argument that is the payload of the channel you have subscribed to. You can use the same stream to subscribe to multiple channels.
 
 # Channels
