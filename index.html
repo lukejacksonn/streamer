@@ -1,0 +1,5 @@
+<script src="https://js.pusher.com/4.2/pusher.min.js"></script>
+<script>
+var pusher = new Pusher('e8f388c50dfc938652ce', { cluster: 'eu' })
+pusher.subscribe('bitcoin').bind('default', console.log)
+</script>

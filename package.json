@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.2.0",
+    "pusher": "^2.1.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
